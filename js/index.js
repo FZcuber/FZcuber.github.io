@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .then(response => processDateFact(response))
         .catch(err => console.error(err));
 
-    fetch(`https://api.github.com/users/cpratim/repos`)
+    fetch(`https://api.github.com/users/fzcuber/repos`)
         .then(response => response.json())
         .then(response => processProjects(response))
         .catch(err => console.error(err));
