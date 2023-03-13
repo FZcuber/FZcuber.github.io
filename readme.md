@@ -1,1 +1,1 @@
-# fzcuber.studio
+fzcuber.github.io
