@@ -1,1 +1,1 @@
-My personal portfolio. [fzcuber.github.io].(URL)
+My personal portfolio. [fzcuber.github.io]
